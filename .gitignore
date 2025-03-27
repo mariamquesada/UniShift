@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+ENV.bak/
+
+# React
+node_modules/
+build/
+dist/
+
+# Environment variables
+.env
